@@ -1,4 +1,4 @@
-Shakespeare ML Intro 
++Shakespeare ML Intro 
 
 This is a demo workbook that shows how the llm -> faiss pattern can be used to do analysis of some text. In this case Shakespeare's plays. 
 
